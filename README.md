@@ -1,3 +1,3 @@
-### Quêtes Wild Code School
+## Quêtes Wild Code School
 
-## entrainement avec Redux
+### entrainement avec Redux
